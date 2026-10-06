@@ -1,3 +1,5 @@
+import { routing } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -32,6 +34,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/residentevil/",
     youtube: "https://www.youtube.com/@residentevil",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
-  defaultLocale: "en",
+  locales: routing.locales,
+  defaultLocale: routing.defaultLocale,
 };
