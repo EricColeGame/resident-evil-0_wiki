@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Resident Evil 0 Wiki",
+    "shortName": "Resident Evil 0",
+    "tagline": "Complete Walkthroughs, Characters, Weapons & Guides",
+    "description": "Your ultimate Resident Evil 0 wiki: walkthroughs, characters, weapons, items, enemies, puzzles, bosses, and survival horror guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Resident Evil 0 Wiki - Walkthrough, Weapons & Enemies",
+      "description": "Complete Resident Evil 0 Wiki with walkthroughs, characters, weapons, enemies, puzzles, bosses, items, story details, and gameplay tips for new and returning players."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Classic Survival Horror",
+      "title": "Resident Evil 0 Wiki",
+      "description": "A complete Resident Evil 0 wiki covering characters, story, weapons, items, enemies, puzzles, walkthroughs, bosses, and gameplay mechanics.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "2002 Original Release",
+        "2 Playable Characters",
+        "4 Major Platforms",
+        "1 Main Campaign"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Full Walkthrough",
+      "tertiaryCta": "Characters & Enemies",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -51,27 +51,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Resident Evil 0 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core mechanics, character switching, item management, combat basics, saving, and survival tips before you board the Ecliptic Express."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Full Walkthrough",
+          "description": "Follow a complete route through the train, training facility, and laboratory with key objectives, items, and boss encounters."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Puzzles & Codes",
+          "description": "Solve the train brake code, chess puzzle, clock puzzle, and every other challenge with clear, step-by-step solutions."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Characters & Story",
+          "description": "Meet Rebecca Chambers and Billy Coen and follow the full story of Resident Evil 0, the prequel to the original outbreak."
         }
       ]
     },
@@ -79,237 +79,271 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
+        "Beginner Guide",
+        "Full Walkthrough",
+        "Weapons & Items",
         "All Boss Guides"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first steps to mastering character switching and survival basics.",
+          "href": "/guide/resident-evil-0-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Full Walkthrough",
+          "description": "A complete route through every area, puzzle, and boss encounter in Resident Evil 0.",
+          "href": "/guide/resident-evil-0-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Weapons & Items",
+          "description": "All weapons, ammo, healing items, and key items with practical usage notes.",
+          "href": "/guide/resident-evil-0-weapons-and-items"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Characters",
+          "description": "Rebecca Chambers and Billy Coen compared by role, abilities, and playstyle.",
+          "href": "/guide/resident-evil-0-characters"
         },
         {
           "badge": "New",
           "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "description": "Leeches, zombies, hunters, and every creature type with tactics and locations.",
+          "href": "/guide/resident-evil-0-enemies"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Boss Guide",
+          "description": "Every major boss with recommended weapons, positioning, and survival tips.",
+          "href": "/bosses/resident-evil-0-boss-guide"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Puzzle Solutions",
+          "description": "Train brake code, chess puzzle, clock puzzle, and all other solutions.",
+          "href": "/guide/resident-evil-0-puzzle-guide"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Achievements",
+          "description": "Every achievement and trophy with concise unlock requirements.",
+          "href": "/guide/resident-evil-0-achievements"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Wesker Mode",
+          "description": "How the HD Remaster's bonus mode changes the campaign with Wesker's abilities.",
+          "href": "/guide/resident-evil-0-wesker-mode"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Resident Evil 0?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Resident Evil 0 is a survival horror game from Capcom and a prequel to the original Resident Evil. Set in 1998, it follows S.T.A.R.S. medic Rebecca Chambers and escaped convict Billy Coen as they uncover the truth behind the Umbrella Corporation's experiments.",
+        "The HD Remaster modernizes the classic experience with updated visuals, widescreen support, and additional content such as Wesker Mode. Our wiki covers every area, puzzle, weapon, and boss with detailed guides and reference tables."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Capcom"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC, PlayStation, Xbox, Nintendo"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Survival Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Original Release",
+          "value": "2002"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Playable Characters",
+          "value": "Rebecca & Billy"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Main Campaign",
+          "value": "1"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Bonus Mode",
+          "value": "Wesker Mode"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore the Resident Evil 0 Wiki",
+      "description": "Master Resident Evil 0 with essential walkthroughs, character and weapon references, puzzle solutions, boss strategies, and completionist guides.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Resident Evil 0 Beginner Guide",
+          "description": "An accessible starting guide covering core mechanics, character switching, item management, combat basics, saving, and survival tips.",
+          "href": "/guide/resident-evil-0-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Step 1",
+              "detail": "Learn partner zapping and character switching between Rebecca and Billy"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Step 2",
+              "detail": "Manage the two-character inventory and the item-dropping system"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Step 3",
+              "detail": "Save ammunition and use the right weapon for each enemy type"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Resident Evil 0 Walkthrough",
+          "description": "A complete route through the Ecliptic Express, training facility, and laboratory with key objectives, items, and boss encounters.",
+          "href": "/guide/resident-evil-0-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Train",
+              "detail": "Ecliptic Express, the brake puzzle, and the first boss"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Facility",
+              "detail": "Training facility, church, and mansion areas"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Laboratory",
+              "detail": "Treatment plant, lab, and the final boss"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Resident Evil 0 Characters",
+          "description": "Introducing Rebecca Chambers and Billy Coen, their different gameplay roles, and when character switching matters.",
+          "href": "/guide/resident-evil-0-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Rebecca Chambers",
+              "detail": "S.T.A.R.S. medic who mixes herbs and handles puzzle items"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
-            },
-            {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Billy Coen",
+              "detail": "Ex-Marine who is stronger in combat and carries heavy weapons"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Resident Evil 0 Weapons and Items",
+          "description": "A practical reference for weapons, ammunition, healing items, key items, and inventory management.",
+          "href": "/guide/resident-evil-0-weapons-and-items",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Weapons",
+              "detail": "Handgun, shotgun, grenade launcher, and more"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Healing",
+              "detail": "Herbs, first aid spray, and mixing combinations"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Key Items",
+              "detail": "Hookshot, ink ribbons, and puzzle items"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Resident Evil 0 Puzzle Guide",
+          "description": "Every important puzzle solution with required items, switches, combinations, and character interactions.",
+          "href": "/guide/resident-evil-0-puzzle-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Train Brake",
+              "detail": "Solve the Ecliptic Express brake code"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Chess Puzzle",
+              "detail": "Arrange the chess pieces in the correct order"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Clock Puzzle",
+              "detail": "Set the laboratory clock to the right time"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Resident Evil 0 Boss Guide",
+          "description": "Tactics, recommended weapons, positioning, and resource management for every major boss encounter.",
+          "href": "/bosses/resident-evil-0-boss-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Train Bosses",
+              "detail": "Giant scorpion and Leech Queen encounters"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Facility Bosses",
+              "detail": "Giant bat, Centurion, and Proto Tyrant"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Final Boss",
+              "detail": "Queen Leech and the laboratory showdown"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Resident Evil 0 Achievements",
+          "description": "Every achievement and trophy with concise requirements to help completionists unlock them all.",
+          "href": "/guide/resident-evil-0-achievements",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Progress-based achievements for each chapter"
+            },
+            {
+              "label": "Challenge",
+              "detail": "Speedruns, no-save, and no-heal runs"
+            },
+            {
+              "label": "Wesker Mode",
+              "detail": "Unlock and complete the bonus mode"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Resident Evil 0 Wesker Mode",
+          "description": "How the HD Remaster's Wesker Mode differs from the standard campaign, including abilities and practical tips.",
+          "href": "/guide/resident-evil-0-wesker-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Unlock",
+              "detail": "Complete the main campaign to unlock Wesker Mode"
+            },
+            {
+              "label": "Abilities",
+              "detail": "Wesker's dash, charge, and super strength"
+            },
+            {
+              "label": "Tips",
+              "detail": "Use Wesker's speed to skip tough encounters"
             }
           ]
         }
@@ -317,45 +351,45 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Resident Evil 0.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Resident Evil 0?",
+          "answer": "Resident Evil 0 is a survival horror prequel from Capcom. Set in 1998, it follows Rebecca Chambers and Billy Coen as they investigate the Umbrella Corporation's experiments aboard the Ecliptic Express and beyond."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms is Resident Evil 0 on?",
+          "answer": "The HD Remaster is available on PC via Steam, PlayStation, Xbox, and Nintendo Switch."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Who are the playable characters?",
+          "answer": "You alternate between Rebecca Chambers, a S.T.A.R.S. medic, and Billy Coen, an escaped convict. Character switching and partner zapping are central to the game."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is there a Wesker Mode?",
+          "answer": "Yes. The HD Remaster includes Wesker Mode, which lets you play through the campaign with Albert Wesker's special abilities."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Do I need to play other Resident Evil games first?",
+          "answer": "No. Resident Evil 0 is a prequel, so it is a fine starting point, though returning fans will recognize many characters and locations."
         }
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Master Resident Evil 0?",
+      "description": "From the Ecliptic Express to the laboratory, our community wiki covers every puzzle, boss, weapon, and secret in Resident Evil 0.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
     "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | My Seafood Stand Wiki",
-      "description": "Complete boss guides for My Seafood Stand — all bosses from tutorial Gelum to endgame encounters with strategies, drops, and respawn timers."
+      "title": "Bosses — Complete Guide & Walkthrough | Resident Evil 0 Wiki",
+      "description": "Complete boss guides for Resident Evil 0 — every major encounter with strategies, recommended weapons, and survival tips."
     },
     "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in My Seafood Stand 13 bosses from the tutorial knight Gelum to endgame encounters like the Gelid Dweller and Gauntlet challenges.",
-    "body": "Bosses in My Seafood Stand serve as skill gates and progression milestones. Some, like Gelum, teach you the combat fundamentals during the tutorial. Others, such as the Shikai Spirit and Resurreccion Spirit, are inner-world encounters tied directly to your race's power unlock. Area bosses like Dragonfly, King Croc, and Securis guard access to new zones and rewards. Recent additions include the Rogue Commander with his Minions, the ice-themed The Everfrosted, and four brand new endgame bosses: The Gelid Dweller, Cinder of the Broken Sky, Devourer of Hosts, and the Wandering Swordsman (Junichiro). Each boss has distinct attack patterns and telegraphed moves you need to learn. Use the guides below to prepare for every fight.",
+    "overviewDescription": "Complete guides for every boss encounter in Resident Evil 0, from the Ecliptic Express to the final Queen Leech showdown.",
+    "body": "Bosses in Resident Evil 0 test your resource management and positioning as much as your aim. Early encounters such as the giant scorpion aboard the Ecliptic Express teach you to keep your distance and use the environment. Later fights, including the giant bat, the Centurion, and the Proto Tyrant, demand careful weapon selection and healing management across both characters. The final confrontation with the Queen Leech brings the story to a close. Use the guides below to prepare for every fight and learn the tactics that make each encounter manageable.",
     "guidesTitle": "Bosses Guides",
     "readMore": "Read more",
     "new": "New",
@@ -366,7 +400,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -379,21 +413,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Resident Evil 0 Wiki",
+    "about": "Resident Evil 0 Wiki is an independent fan-built guide hub covering walkthroughs, characters, weapons, items, enemies, puzzles, bosses, and survival horror knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 Resident Evil 0 Wiki. Not affiliated with Capcom or Nintendo.",
+    "description": "Classic survival horror prequel. Play as Rebecca and Billy, solve puzzles, and survive the Umbrella outbreak.",
+    "playGame": "Play Resident Evil 0",
+    "officialDiscord": "Community (Reddit)",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "RE0 Wiki Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
+    "raceGuides": "Walkthroughs",
     "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "buildGuide": "Weapons & Items",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

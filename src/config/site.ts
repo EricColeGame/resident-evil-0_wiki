@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Walkthroughs, Characters, Weapons & Guides",
   description: "Your ultimate Resident Evil 0 wiki: walkthroughs, characters, weapons, items, enemies, puzzles, bosses, and survival horror guides.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://resident-evil-0.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://resident-evil-0.wiki").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.residentevil.com/0/",
-  heroVideoId: "QbjC_WZy_jo", // Resident Evil 0 official launch trailer
+  supportEmail: "support@resident-evil-0.wiki",
+  gameUrl: "https://store.steampowered.com/app/339340/",
+  heroVideoId: "mBawx8QbOrs", // Resident Evil Zero Remastered gameplay walkthrough
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://www.reddit.com/r/residentevil/",
+    youtube: "https://www.youtube.com/@residentevil",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
