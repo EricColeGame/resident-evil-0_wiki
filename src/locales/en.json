@@ -7,22 +7,9 @@
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
-    "races": "Races",
-    "bosses": "Bosses",
-    "guides": "Guides",
-    "codes": "Codes",
-    "tierList": "Tier List",
-    "maps": "Maps",
-    "skills": "Skills",
-    "updates": "Updates",
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guides",
-    "seafood": "Seafood & Recipes",
-    "upgrades": "Upgrades",
-    "gamepasses": "Gamepasses",
-    "community": "Community"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -382,19 +369,7 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {
-    "meta": {
-      "title": "Bosses — Complete Guide & Walkthrough | Resident Evil 0 Wiki",
-      "description": "Complete boss guides for Resident Evil 0 — every major encounter with strategies, recommended weapons, and survival tips."
-    },
-    "overviewTitle": "Bosses Overview",
-    "overviewDescription": "Complete guides for every boss encounter in Resident Evil 0, from the Ecliptic Express to the final Queen Leech showdown.",
-    "body": "Bosses in Resident Evil 0 test your resource management and positioning as much as your aim. Early encounters such as the giant scorpion aboard the Ecliptic Express teach you to keep your distance and use the environment. Later fights, including the giant bat, the Centurion, and the Proto Tyrant, demand careful weapon selection and healing management across both characters. The final confrontation with the Queen Leech brings the story to a close. Use the guides below to prepare for every fight and learn the tactics that make each encounter manageable.",
-    "guidesTitle": "Bosses Guides",
-    "readMore": "Read more",
-    "new": "New",
-    "popular": "Popular"
-  },
+  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
