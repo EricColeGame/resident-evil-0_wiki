@@ -8,6 +8,12 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "puzzles": "Puzzles",
+    "items": "Items",
+    "characters": "Characters",
+    "modes": "Modes",
+    "story": "Story",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -417,7 +423,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Resident Evil 0 Guide & Walkthroughs",
+    "overviewDescription": "Beginner guide, full walkthrough, Ecliptic Express and laboratory walkthroughs, plus trophy and achievement guides for Resident Evil 0."
+  },
+  "puzzles": {
+    "overviewTitle": "Resident Evil 0 Puzzle Solutions",
+    "overviewDescription": "Step-by-step solutions for the chess puzzle, animal puzzle, clock puzzle, statue puzzle, train brake code and water treatment plant puzzle."
+  },
+  "items": {
+    "overviewTitle": "Resident Evil 0 Weapons & Items",
+    "overviewDescription": "Weapons, herbs, the hookshot, ink ribbons and inventory management tips for surviving Resident Evil 0."
+  },
+  "characters": {
+    "overviewTitle": "Resident Evil 0 Characters",
+    "overviewDescription": "Profiles for Rebecca Chambers, Billy Coen, Albert Wesker, James Marcus and the rest of the Resident Evil 0 cast."
+  },
+  "modes": {
+    "overviewTitle": "Resident Evil 0 Game Modes",
+    "overviewDescription": "Leech Hunter, Wesker Mode, difficulty levels, extra game content and unlockables in Resident Evil 0."
+  },
+  "story": {
+    "overviewTitle": "Resident Evil 0 Story & Lore",
+    "overviewDescription": "Story explained, endings, timeline and lore that connects Resident Evil 0 to the rest of the series."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +477,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "RE0 Wiki Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Walkthroughs",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Weapons & Items",
+    "walkthroughGuides": "Walkthroughs",
+    "puzzleGuides": "Puzzle Solutions",
+    "itemsGuide": "Weapons & Items",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
