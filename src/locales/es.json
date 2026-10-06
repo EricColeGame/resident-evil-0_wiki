@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Resident Evil 0 Wiki",
+    "shortName": "Resident Evil 0",
+    "tagline": "Guías completas, personajes, armas y tutoriales",
+    "description": "Tu wiki definitiva de Resident Evil 0: guías, personajes, armas, objetos, enemigos, puzles, jefes y guías de survival horror.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "puzzles": "Puzles",
+    "items": "Objetos",
+    "characters": "Personajes",
+    "modes": "Modos",
+    "story": "Historia",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Resident Evil 0 Wiki - Guía, armas y enemigos",
+      "description": "Wiki completa de Resident Evil 0 con guías, personajes, armas, enemigos, puzles, jefes, objetos, detalles de la historia y consejos de juego para jugadores nuevos y veteranos."
+    },
+    "hero": {
+      "eyebrow": "Survival horror clásico",
+      "title": "Resident Evil 0 Wiki",
+      "description": "Una wiki completa de Resident Evil 0 que cubre personajes, historia, armas, objetos, enemigos, puzles, guías, jefes y mecánicas de juego.",
+      "stats": [
+        "Lanzamiento original de 2002",
+        "2 personajes jugables",
+        "4 plataformas principales",
+        "1 campaña principal"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía completa",
+      "tertiaryCta": "Personajes y enemigos",
+      "videoLabel": "Contenido oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Resident Evil 0",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el zapping de compañeros, el sistema de objetos que se dejan en cualquier lugar, la mezcla de hierbas, los fundamentos del combate y cómo guardar antes de subir al Ecliptic Express."
+        },
+        {
+          "number": "2",
+          "title": "Roles de los personajes",
+          "description": "Descubre qué hace mejor cada uno, Rebecca Chambers y Billy Coen, desde mezclar hierbas y llevar objetos de puzle hasta mover objetos pesados y usar la escopeta."
+        },
+        {
+          "number": "3",
+          "title": "Zapping de compañeros e inventario",
+          "description": "Domina el cambio entre dos personajes, los inventarios de seis espacios y el almacenamiento en el suelo que sustituye a las cajas de objetos en Resident Evil 0."
+        },
+        {
+          "number": "4",
+          "title": "Guía de jefes y combate",
+          "description": "Prepárate para el humanoide sanguijuela, el murciélago infectado, la araña gigante, el Prototype Tyrant y el jefe final de dos fases con las armas adecuadas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Guía completa",
+        "Armas y objetos",
+        "Todas las guías de jefes"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tus primeros pasos hasta dominar el cambio de personaje y los fundamentos de supervivencia.",
+          "href": "/guide/resident-evil-0-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía completa",
+          "description": "Una ruta completa por cada zona, puzle y combate contra jefes en Resident Evil 0.",
+          "href": "/guide/resident-evil-0-walkthrough"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Armas y objetos",
+          "description": "Todas las armas, munición, objetos curativos y objetos clave con notas de uso práctico.",
+          "href": "/items/resident-evil-0-weapons"
+        },
+        {
+          "badge": "Popular",
+          "title": "Personajes",
+          "description": "Rebecca Chambers y Billy Coen comparados por rol, habilidades y estilo de juego.",
+          "href": "/characters/resident-evil-0-rebecca"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Villanos y jefes",
+          "description": "James Marcus, la Queen Leech y todas las amenazas importantes con tácticas y ubicaciones.",
+          "href": "/characters/resident-evil-0-antagonist"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de jefes",
+          "description": "Todos los jefes importantes con armas recomendadas, posicionamiento y consejos de supervivencia.",
+          "href": "/guide/resident-evil-0-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Soluciones de puzles",
+          "description": "Código del freno del tren, puzle de ajedrez, puzle del reloj y todas las demás soluciones.",
+          "href": "/puzzles/resident-evil-0-puzzle-solutions"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Logros",
+          "description": "Todos los logros y trofeos con requisitos de desbloqueo concisos.",
+          "href": "/guide/resident-evil-0-achievement-guide"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Modo Wesker",
+          "description": "Cómo el modo extra de la HD Remaster cambia la campaña con las habilidades de Wesker.",
+          "href": "/modes/resident-evil-0-wesker-mode"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Resident Evil 0?",
+      "paragraphs": [
+        "Resident Evil 0 es un juego de survival horror de Capcom y una precuela del Resident Evil original. Ambientado en 1998, sigue a la médica de S.T.A.R.S. Rebecca Chambers y al convicto fugado Billy Coen mientras descubren la verdad tras los experimentos de la Corporación Umbrella.",
+        "La HD Remaster moderniza la experiencia clásica con gráficos mejorados, compatibilidad con pantalla ancha y contenido adicional como el Modo Wesker. Nuestra wiki cubre cada zona, puzle, arma y jefe con guías detalladas y tablas de referencia."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Capcom"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC, PlayStation, Xbox, Nintendo"
+        },
+        {
+          "label": "Género",
+          "value": "Survival horror"
+        },
+        {
+          "label": "Lanzamiento original",
+          "value": "2002"
+        },
+        {
+          "label": "Personajes jugables",
+          "value": "Rebecca y Billy"
+        },
+        {
+          "label": "Campaña principal",
+          "value": "1"
+        },
+        {
+          "label": "Modo extra",
+          "value": "Modo Wesker"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Resident Evil 0",
+      "description": "Domina Resident Evil 0 con guías esenciales, referencias de personajes y armas, soluciones de puzles, estrategias contra jefes y guías para completistas.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Resident Evil 0",
+          "description": "Una guía de inicio accesible que cubre el zapping de compañeros, el inventario sin cajas de objetos, la mezcla de hierbas, los fundamentos del combate, el guardado y consejos de supervivencia.",
+          "href": "/guide/resident-evil-0-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Alterna el control entre Rebecca y Billy con el botón de zapping de compañeros"
+            },
+            {
+              "label": "2",
+              "detail": "Deja objetos en cualquier lugar y recuerda cada escondite, porque Resident Evil 0 no tiene cajas de objetos"
+            },
+            {
+              "label": "3",
+              "detail": "Deja que Rebecca mezcle hierbas y lleve objetos de puzle mientras Billy mueve objetos pesados"
+            },
+            {
+              "label": "4",
+              "detail": "Ahorra munición de pistola y elige solo peleas que puedas ganar en el Ecliptic Express"
+            },
+            {
+              "label": "5",
+              "detail": "Guarda en máquinas de escribir con cintas de tinta, ya que el juego no tiene autoguardado"
+            },
+            {
+              "label": "6",
+              "detail": "Mantén dos espacios de inventario libres para objetos de puzle que aparecen sin avisar"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía completa de Resident Evil 0",
+          "description": "Una ruta completa por el Ecliptic Express, el centro de entrenamiento y el laboratorio subterráneo con objetivos clave, objetos y combates contra jefes.",
+          "href": "/guide/resident-evil-0-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tren",
+              "detail": "Vagones del Ecliptic Express, la cerradura de anillos y la secuencia de frenado"
+            },
+            {
+              "label": "Instalación",
+              "detail": "Puzles del centro de entrenamiento, el murciélago infectado y la araña gigante"
+            },
+            {
+              "label": "Laboratorio",
+              "detail": "Laboratorio subterráneo, Prototype Tyrant y el jefe final"
+            },
+            {
+              "label": "Final",
+              "detail": "Enfrentamiento con la Queen Leech, ruta de escape y desenlace"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Personajes de Resident Evil 0",
+          "description": "Presenta a Rebecca Chambers y Billy Coen, sus distintos roles jugables y cuándo importa más cambiar de personaje.",
+          "href": "/characters/resident-evil-0-rebecca",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rebecca",
+              "detail": "Médica de S.T.A.R.S. que mezcla hierbas y lleva objetos de puzle"
+            },
+            {
+              "label": "Billy",
+              "detail": "Exmarine fornido que mueve objetos pesados y dispara la escopeta"
+            },
+            {
+              "label": "Villanos",
+              "detail": "James Marcus, la Queen Leech y los orígenes del T-Virus"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Armas y objetos de Resident Evil 0",
+          "description": "Una referencia práctica de armas, munición, objetos curativos, objetos clave y gestión de inventario sin cajas de objetos.",
+          "href": "/items/resident-evil-0-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Pistola",
+              "detail": "Munición común y el arma básica para limpiar salas"
+            },
+            {
+              "label": "Escopeta",
+              "detail": "Control de multitudes a corta distancia, mejor en manos de Billy"
+            },
+            {
+              "label": "Magnum",
+              "detail": "Raro asesino de jefes; resérvalo para el Prototype Tyrant"
+            },
+            {
+              "label": "Gancho",
+              "detail": "Objeto clave y herramienta de desplazamiento; perderlo bloquea la mitad del juego"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de puzles de Resident Evil 0",
+          "description": "Todas las soluciones de puzles importantes con los objetos necesarios, interruptores, combinaciones e interacciones de personajes.",
+          "href": "/puzzles/resident-evil-0-puzzle-solutions",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cerradura de anillos",
+              "detail": "Inserta el Anillo de oro y el de plata juntos en el Ecliptic Express"
+            },
+            {
+              "label": "Ajedrez",
+              "detail": "Resuelve el enigma del tablero de ajedrez en el centro de entrenamiento"
+            },
+            {
+              "label": "Reloj",
+              "detail": "Ajusta el reloj del laboratorio con las pistas de los archivos"
+            },
+            {
+              "label": "Estatuas",
+              "detail": "Cerraduras de estatuas y emblemas de animales en el centro de entrenamiento"
+            },
+            {
+              "label": "Válvulas",
+              "detail": "Dirige las válvulas y niveles de la planta de tratamiento de agua"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de jefes de Resident Evil 0",
+          "description": "Tácticas, armas recomendadas, posicionamiento y gestión de recursos para cada combate importante contra jefes.",
+          "href": "/guide/resident-evil-0-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Prototype Tyrant: reserva balas de Magnum y granadas, luego castiga la embestida"
+            },
+            {
+              "label": "A",
+              "detail": "Jefe final Queen Leech: combate de dos fases, lleva el máximo de curación"
+            },
+            {
+              "label": "B",
+              "detail": "Murciélago infectado: esquiva los picados y dispara en los momentos de aterrizaje"
+            },
+            {
+              "label": "C",
+              "detail": "Humanoide sanguijuela: mantén la distancia, rodea y usa pistola o escopeta"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Logros de Resident Evil 0",
+          "description": "Todos los logros y trofeos con requisitos concisos para ayudar a los completistas a desbloquearlos todos.",
+          "href": "/guide/resident-evil-0-achievement-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Historia",
+              "detail": "Completa la campaña en cualquier dificultad"
+            },
+            {
+              "label": "Difícil",
+              "detail": "Supera el modo Difícil para los trofeos de dificultad"
+            },
+            {
+              "label": "Sanguijuela",
+              "detail": "Amuletos, rangos y recompensas extra de Leech Hunter"
+            },
+            {
+              "label": "Wesker",
+              "detail": "Termina el Modo Wesker y limpia las armas extra"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Modo Wesker de Resident Evil 0",
+          "description": "En qué se diferencia el Modo Wesker de la HD Remaster de la campaña estándar, incluidas habilidades y consejos prácticos.",
+          "href": "/modes/resident-evil-0-wesker-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Desbloqueo",
+              "detail": "Completa la historia principal una vez en cualquier dificultad"
+            },
+            {
+              "label": "Dash",
+              "detail": "Embestida a alta velocidad que empuja a los enemigos a su paso"
+            },
+            {
+              "label": "Mirada",
+              "detail": "Ráfaga cargada de ojos rojos contra grupos de sanguijuelas y Eliminators"
+            },
+            {
+              "label": "Consejos",
+              "detail": "Usa las habilidades para saltarte peleas y ahorrar munición para los jefes"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Resident Evil 0.",
+      "items": [
+        {
+          "question": "¿Qué es Resident Evil 0?",
+          "answer": "Resident Evil 0 es una precuela de survival horror de Capcom. Ambientada en julio de 1998, sigue a Rebecca Chambers y Billy Coen mientras investigan los experimentos de la Corporación Umbrella a bordo del Ecliptic Express y más allá."
+        },
+        {
+          "question": "¿En qué plataformas está Resident Evil 0?",
+          "answer": "Resident Evil 0 HD Remaster está disponible en PC a través de Steam, PlayStation 4, Xbox One y Nintendo Switch."
+        },
+        {
+          "question": "¿Quiénes son los personajes jugables de Resident Evil 0?",
+          "answer": "Alternas entre Rebecca Chambers, médica de S.T.A.R.S., y Billy Coen, un convicto fugado. El zapping de compañeros y el cambio de personaje son centrales en Resident Evil 0."
+        },
+        {
+          "question": "¿Resident Evil 0 tiene cajas de objetos?",
+          "answer": "No. Resident Evil 0 elimina por completo las cajas de objetos, así que todo lo que dejes se queda en esa sala durante el resto de la campaña y hay que recogerlo a mano."
+        },
+        {
+          "question": "¿Hay un Modo Wesker en Resident Evil 0?",
+          "answer": "Sí. Resident Evil 0 HD Remaster incluye el Modo Wesker, que te permite rejugar la campaña con el dash y la Mirada de la Destrucción de Albert Wesker."
+        },
+        {
+          "question": "¿Necesito jugar a otros Resident Evil antes de Resident Evil 0?",
+          "answer": "No. Resident Evil 0 es una precuela ambientada antes del primer juego, así que es un buen punto de partida, aunque los fans veteranos reconocerán a muchos personajes y lugares."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Resident Evil 0?",
+      "description": "Desde el Ecliptic Express hasta el laboratorio, nuestra wiki comunitaria cubre cada puzle, jefe, arma y secreto de Resident Evil 0.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía y soluciones de Resident Evil 0",
+    "overviewDescription": "Guía para principiantes, guía completa, soluciones del Ecliptic Express y el laboratorio, además de guías de trofeos y logros de Resident Evil 0."
+  },
+  "puzzles": {
+    "overviewTitle": "Soluciones de puzles de Resident Evil 0",
+    "overviewDescription": "Soluciones paso a paso del puzle de ajedrez, el puzle de animales, el puzle del reloj, el puzle de estatuas, el código del freno del tren y el puzle de la planta de tratamiento de agua."
+  },
+  "items": {
+    "overviewTitle": "Armas y objetos de Resident Evil 0",
+    "overviewDescription": "Armas, hierbas, el gancho, cintas de tinta y consejos de gestión de inventario para sobrevivir en Resident Evil 0."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Resident Evil 0",
+    "overviewDescription": "Perfiles de Rebecca Chambers, Billy Coen, Albert Wesker, James Marcus y el resto del reparto de Resident Evil 0."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de Resident Evil 0",
+    "overviewDescription": "Leech Hunter, Modo Wesker, niveles de dificultad, contenido extra y desbloqueables de Resident Evil 0."
+  },
+  "story": {
+    "overviewTitle": "Historia y lore de Resident Evil 0",
+    "overviewDescription": "Historia explicada, finales, cronología y lore que conecta Resident Evil 0 con el resto de la saga."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Steam",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Resident Evil 0 Wiki",
+    "about": "Resident Evil 0 Wiki es un centro de guías independiente creado por fans que cubre guías, personajes, armas, objetos, enemigos, puzles, jefes y conocimientos de survival horror tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Resident Evil 0 Wiki. Sin afiliación con Capcom ni Nintendo.",
+    "description": "Precuela clásica de survival horror. Juega como Rebecca y Billy, resuelve puzles y sobrevive al brote de Umbrella.",
+    "playGame": "Jugar a Resident Evil 0",
+    "officialDiscord": "Comunidad (Reddit)",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Herramientas de la wiki RE0",
+    "beginnerGuide": "Guía para principiantes",
+    "walkthroughGuides": "Guías completas",
+    "puzzleGuides": "Soluciones de puzles",
+    "itemsGuide": "Armas y objetos",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Resident Evil 0 Wiki",
+    "shortName": "Resident Evil 0",
+    "tagline": "完全攻略、キャラクター、武器＆ガイド",
+    "description": "Resident Evil 0 の総合ウィキ：攻略、キャラクター、武器、アイテム、敵、パズル、ボス、サバイバルホラーのガイド。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーによって、プレイヤーのために作られています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "guide": "ガイド",
+    "puzzles": "パズル",
+    "items": "アイテム",
+    "characters": "キャラクター",
+    "modes": "モード",
+    "story": "ストーリー",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替"
+  },
+  "home": {
+    "meta": {
+      "title": "Resident Evil 0 Wiki - 攻略、武器＆敵",
+      "description": "攻略、キャラクター、武器、敵、パズル、ボス、アイテム、ストーリー、ゲームプレイのヒントを網羅した Resident Evil 0 の完全ウィキ。"
+    },
+    "hero": {
+      "eyebrow": "クラシック・サバイバルホラー",
+      "title": "Resident Evil 0 Wiki",
+      "description": "キャラクター、ストーリー、武器、アイテム、敵、パズル、攻略、ボス、ゲームシステムを網羅した Resident Evil 0 の完全ウィキ。",
+      "stats": [
+        "2002年 オリジナル発売",
+        "2人のプレイアブルキャラ",
+        "4つの主要プラットフォーム",
+        "1つのメインキャンペーン"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "完全攻略",
+      "tertiaryCta": "キャラクター＆敵",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Resident Evil 0 の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "パートナーザッピング、どこでも置けるアイテムシステム、ハーブ調合、戦闘の基本、エクリプティック・エクスプレスに乗る前のセーブ方法を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "キャラクターの役割",
+          "description": "ハーブ調合やパズルアイテムから重量物の運搬やショットガンの扱いまで、レベッカ・チェンバースとビリー・コーエンがそれぞれ得意なことを確認しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "パートナーザッピングとインベントリ",
+          "description": "2人の切り替え、6スロットのインベントリ、Resident Evil 0 でアイテムボックスに代わる床置き収納をマスターしましょう。"
+        },
+        {
+          "number": "4",
+          "title": "ボス＆戦闘ガイド",
+          "description": "リーチ人間体、感染したコウモリ、巨大グモ、プロトタイプ・タイラント、2段階の最終ボスに適切な武器で備えましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "完全攻略",
+        "武器＆アイテム",
+        "全ボスガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初の一歩からキャラクター切り替えとサバイバルの基本をマスターするまでに必要なすべて。",
+          "href": "/guide/resident-evil-0-beginner-guide"
+        },
+        {
+          "badge": "更新",
+          "title": "完全攻略",
+          "description": "Resident Evil 0 のすべてのエリア、パズル、ボス戦を巡る完全ルート。",
+          "href": "/guide/resident-evil-0-walkthrough"
+        },
+        {
+          "badge": "更新",
+          "title": "武器＆アイテム",
+          "description": "すべての武器、弾薬、回復アイテム、キーアイテムと実践的な使い方のメモ。",
+          "href": "/items/resident-evil-0-weapons"
+        },
+        {
+          "badge": "人気",
+          "title": "キャラクター",
+          "description": "レベッカ・チェンバースとビリー・コーエンを役割、能力、プレイスタイルで比較。",
+          "href": "/characters/resident-evil-0-rebecca"
+        },
+        {
+          "badge": "新着",
+          "title": "ヴィラン＆ボス",
+          "description": "ジェームズ・マーカス、クイーン・リーチ、その他すべての主要な脅威を戦術と出現場所とともに。",
+          "href": "/characters/resident-evil-0-antagonist"
+        },
+        {
+          "badge": "人気",
+          "title": "ボスガイド",
+          "description": "すべての主要ボスを推奨武器、立ち回り、生存のコツとともに。",
+          "href": "/guide/resident-evil-0-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "パズル攻略",
+          "description": "列車のブレーキコード、チェスパズル、時計パズルなどすべての解答。",
+          "href": "/puzzles/resident-evil-0-puzzle-solutions"
+        },
+        {
+          "badge": "新着",
+          "title": "実績",
+          "description": "すべての実績とトロフィーを簡潔な解除条件とともに。",
+          "href": "/guide/resident-evil-0-achievement-guide"
+        },
+        {
+          "badge": "新着",
+          "title": "ウェスカーモード",
+          "description": "HDリマスターのボーナスモードがウェスカーの能力でキャンペーンをどう変えるか。",
+          "href": "/modes/resident-evil-0-wesker-mode"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Resident Evil 0 とは？",
+      "paragraphs": [
+        "Resident Evil 0 はカプコンによるサバイバルホラーゲームで、初代 Resident Evil の前日譚です。1998年を舞台に、S.T.A.R.S.の衛生兵レベッカ・チェンバースと脱獄囚ビリー・コーエンが、アンブレラ社の実験の真相を追います。",
+        "HDリマスターは、向上したグラフィック、ワイドスクリーン対応、ウェスカーモードなどの追加コンテンツでクラシックな体験を現代に蘇らせました。当ウィキではすべてのエリア、パズル、武器、ボスを詳細なガイドとリファレンス表で網羅しています。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "カプコン"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC、PlayStation、Xbox、Nintendo"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サバイバルホラー"
+        },
+        {
+          "label": "オリジナル発売",
+          "value": "2002年"
+        },
+        {
+          "label": "プレイアブルキャラ",
+          "value": "レベッカ＆ビリー"
+        },
+        {
+          "label": "メインキャンペーン",
+          "value": "1"
+        },
+        {
+          "label": "ボーナスモード",
+          "value": "ウェスカーモード"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Resident Evil 0 ウィキを探索",
+      "description": "必須の攻略、キャラクターと武器のリファレンス、パズル攻略、ボス戦略、コンプリートガイドで Resident Evil 0 をマスターしましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Resident Evil 0 初心者ガイド",
+          "description": "パートナーザッピング、アイテムボックスなしのインベントリ、ハーブ調合、戦闘の基本、セーブ、生存のコツを扱う取っつきやすい入門ガイド。",
+          "href": "/guide/resident-evil-0-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "パートナーザッピングボタンでレベッカとビリーの操作を切り替える"
+            },
+            {
+              "label": "2",
+              "detail": "Resident Evil 0 にはアイテムボックスがないので、アイテムはどこでも置けて各保管場所を覚えておく"
+            },
+            {
+              "label": "3",
+              "detail": "レベッカにハーブ調合とパズルアイテムを任せ、ビリーに重い物を動かさせる"
+            },
+            {
+              "label": "4",
+              "detail": "エクリプティック・エクスプレスではハンドガンの弾を節約し、勝てる戦いだけを選ぶ"
+            },
+            {
+              "label": "5",
+              "detail": "オートセーブがないので、インクリボンでタイプライターにセーブする"
+            },
+            {
+              "label": "6",
+              "detail": "予告なく現れるパズルアイテム用にインベントリを2スロット空けておく"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Resident Evil 0 攻略",
+          "description": "エクリプティック・エクスプレス、訓練施設、地下研究所を主要目標、アイテム、ボス戦とともに巡る完全ルート。",
+          "href": "/guide/resident-evil-0-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "列車",
+              "detail": "エクリプティック・エクスプレスの車両、リングロック、ブレーキの手順"
+            },
+            {
+              "label": "施設",
+              "detail": "訓練施設のパズル、感染したコウモリ、巨大グモ"
+            },
+            {
+              "label": "研究所",
+              "detail": "地下ラボ、プロトタイプ・タイラント、最終ボス"
+            },
+            {
+              "label": "終盤",
+              "detail": "クイーン・リーチとの決戦、脱出ルート、エンディング"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Resident Evil 0 キャラクター",
+          "description": "レベッカ・チェンバースとビリー・コーエン、それぞれの異なる役割、キャラクター切り替えが最も重要な場面を紹介。",
+          "href": "/characters/resident-evil-0-rebecca",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "レベッカ",
+              "detail": "ハーブを調合しパズルアイテムを運ぶS.T.A.R.S.の衛生兵"
+            },
+            {
+              "label": "ビリー",
+              "detail": "重い物を動かしショットガンを撃つ元海兵の強肩"
+            },
+            {
+              "label": "ヴィラン",
+              "detail": "ジェームズ・マーカス、クイーン・リーチ、T-ウイルスの起源"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Resident Evil 0 武器とアイテム",
+          "description": "武器、弾薬、回復アイテム、キーアイテム、アイテムボックスなしのインベントリ管理の実践的リファレンス。",
+          "href": "/items/resident-evil-0-weapons",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "ハンドガン",
+              "detail": "弾が手に入りやすく、部屋を片付ける基本武器"
+            },
+            {
+              "label": "ショットガン",
+              "detail": "近距離の群れ制圧、ビリーに持たせるのが最適"
+            },
+            {
+              "label": "マグナム",
+              "detail": "希少なボスキラー。プロトタイプ・タイラントのために取っておく"
+            },
+            {
+              "label": "フックショット",
+              "detail": "キーアイテム兼移動ツール。失うと中盤で詰む"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Resident Evil 0 パズルガイド",
+          "description": "必要なアイテム、スイッチ、組み合わせ、キャラクターの操作とともに、すべての重要なパズルの解答。",
+          "href": "/puzzles/resident-evil-0-puzzle-solutions",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リングロック",
+              "detail": "エクリプティック・エクスプレスで金と銀の指輪を一緒に差し込む"
+            },
+            {
+              "label": "チェス",
+              "detail": "訓練施設のチェス盤の謎を解く"
+            },
+            {
+              "label": "時計",
+              "detail": "ファイルの手がかりを使って研究所の時計を合わせる"
+            },
+            {
+              "label": "彫像",
+              "detail": "訓練施設の彫像と動物の紋章の錠"
+            },
+            {
+              "label": "バルブ",
+              "detail": "水処理施設のバルブと水位を操作する"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Resident Evil 0 ボスガイド",
+          "description": "すべての主要ボス戦の戦術、推奨武器、立ち回り、リソース管理。",
+          "href": "/guide/resident-evil-0-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "プロトタイプ・タイラント：マグナムとグレネード弾を温存し、突進後に反撃"
+            },
+            {
+              "label": "A",
+              "detail": "最終ボスのクイーン・リーチ：2段階戦、回復を最大限に用意"
+            },
+            {
+              "label": "B",
+              "detail": "感染したコウモリ：急降下をかわし、着地の隙に撃ち込む"
+            },
+            {
+              "label": "C",
+              "detail": "リーチ人間体：距離を取り、回り込み、ハンドガンかショットガンを使う"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Resident Evil 0 実績",
+          "description": "コンプリートを目指すプレイヤーのために、すべての実績とトロフィーを簡潔な条件とともに。",
+          "href": "/guide/resident-evil-0-achievement-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ストーリー",
+              "detail": "任意の難易度でキャンペーンをクリア"
+            },
+            {
+              "label": "ハード",
+              "detail": "難易度トロフィーのためにハードモードをクリア"
+            },
+            {
+              "label": "リーチ",
+              "detail": "リーチハンターのチャーム、ランク、ボーナス報酬"
+            },
+            {
+              "label": "ウェスカー",
+              "detail": "ウェスカーモードをクリアしボーナス武器を回収"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Resident Evil 0 ウェスカーモード",
+          "description": "HDリマスターのウェスカーモードが通常キャンペーンとどう異なるか、能力と実践的なコツ。",
+          "href": "/modes/resident-evil-0-wesker-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "解放",
+              "detail": "任意の難易度でメインストーリーを一度クリア"
+            },
+            {
+              "label": "ダッシュ",
+              "detail": "進路上の敵を吹き飛ばす高速突進"
+            },
+            {
+              "label": "ゲイズ",
+              "detail": "リーチやエリミネーターの群れに対するチャージ式の赤い眼光"
+            },
+            {
+              "label": "コツ",
+              "detail": "能力で戦闘をスキップし、ボス用に弾を温存"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Resident Evil 0 に関する最も一般的な質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Resident Evil 0 とは何ですか？",
+          "answer": "Resident Evil 0 はカプコンによるサバイバルホラーの前日譚です。1998年7月を舞台に、レベッカ・チェンバースとビリー・コーエンが、エクリプティック・エクスプレスなどでアンブレラ社の実験を調査する様子を描きます。"
+        },
+        {
+          "question": "Resident Evil 0 はどのプラットフォームで遊べますか？",
+          "answer": "Resident Evil 0 HDリマスターは、Steam経由のPC、PlayStation 4、Xbox One、Nintendo Switchで遊べます。"
+        },
+        {
+          "question": "Resident Evil 0 のプレイアブルキャラクターは誰ですか？",
+          "answer": "S.T.A.R.S.の衛生兵レベッカ・チェンバースと、脱獄囚ビリー・コーエンを交互に操作します。パートナーザッピングとキャラクター切り替えが Resident Evil 0 の中心です。"
+        },
+        {
+          "question": "Resident Evil 0 にアイテムボックスはありますか？",
+          "answer": "いいえ。Resident Evil 0 はアイテムボックスを完全に廃止しているため、置いたアイテムはキャンペーン中ずっとその部屋に残り、手で拾いに行く必要があります。"
+        },
+        {
+          "question": "Resident Evil 0 にウェスカーモードはありますか？",
+          "answer": "はい。Resident Evil 0 HDリマスターにはウェスカーモードが含まれ、アルバート・ウェスカーのダッシュと「破壊の視線」の能力でキャンペーンを再プレイできます。"
+        },
+        {
+          "question": "Resident Evil 0 の前に他の Resident Evil を遊ぶ必要はありますか？",
+          "answer": "いいえ。Resident Evil 0 は初代より前を舞台にした前日譚なので、始めるのに最適です。ただし往年のファンは多くのキャラクターや場所に見覚えがあるでしょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Resident Evil 0 をマスターする準備はできましたか？",
+      "description": "エクリプティック・エクスプレスから研究所まで、当コミュニティウィキは Resident Evil 0 のすべてのパズル、ボス、武器、秘密を網羅しています。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Resident Evil 0 ガイド＆攻略",
+    "overviewDescription": "初心者ガイド、完全攻略、エクリプティック・エクスプレスと研究所の攻略、さらにトロフィーと実績ガイド。"
+  },
+  "puzzles": {
+    "overviewTitle": "Resident Evil 0 パズル攻略",
+    "overviewDescription": "チェスパズル、動物パズル、時計パズル、彫像パズル、列車のブレーキコード、水処理施設のパズルの手順別解答。"
+  },
+  "items": {
+    "overviewTitle": "Resident Evil 0 武器＆アイテム",
+    "overviewDescription": "Resident Evil 0 を生き延びるための武器、ハーブ、フックショット、インクリボン、インベントリ管理のコツ。"
+  },
+  "characters": {
+    "overviewTitle": "Resident Evil 0 キャラクター",
+    "overviewDescription": "レベッカ・チェンバース、ビリー・コーエン、アルバート・ウェスカー、ジェームズ・マーカスなど Resident Evil 0 の登場人物のプロフィール。"
+  },
+  "modes": {
+    "overviewTitle": "Resident Evil 0 ゲームモード",
+    "overviewDescription": "リーチハンター、ウェスカーモード、難易度、追加コンテンツ、アンロック要素。"
+  },
+  "story": {
+    "overviewTitle": "Resident Evil 0 ストーリー＆世界観",
+    "overviewDescription": "ストーリー解説、エンディング、時系列、Resident Evil 0 をシリーズ全体につなぐ世界観。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Steamでプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。また後で確認してください！"
+  },
+  "footer": {
+    "aboutTitle": "Resident Evil 0 Wiki",
+    "about": "Resident Evil 0 Wiki は、新規プレイヤーにもベテランにも役立つ、攻略、キャラクター、武器、アイテム、敵、パズル、ボス、サバイバルホラーの知識を扱う独立系ファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Resident Evil 0 Wiki. カプコンやNintendoとは提携していません。",
+    "description": "クラシック・サバイバルホラーの前日譚。レベッカとビリーでパズルを解き、アンブレラのアウトブレイクを生き延びましょう。",
+    "playGame": "Resident Evil 0 をプレイ",
+    "officialDiscord": "コミュニティ（Reddit）",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "RE0 ウィキツール",
+    "beginnerGuide": "初心者ガイド",
+    "walkthroughGuides": "攻略",
+    "puzzleGuides": "パズル攻略",
+    "itemsGuide": "武器＆アイテム",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
