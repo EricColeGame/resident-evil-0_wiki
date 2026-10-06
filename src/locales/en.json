@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Learn the core mechanics, character switching, item management, combat basics, saving, and survival tips before you board the Ecliptic Express."
+          "description": "Learn partner zapping, the drop-anywhere item system, herb mixing, combat basics, and saving before you board the Ecliptic Express."
         },
         {
           "number": "2",
-          "title": "Full Walkthrough",
-          "description": "Follow a complete route through the train, training facility, and laboratory with key objectives, items, and boss encounters."
+          "title": "Character Roles",
+          "description": "See what Rebecca Chambers and Billy Coen each do best, from herb mixing and puzzle items to heavy lifting and shotgun duty."
         },
         {
           "number": "3",
-          "title": "Puzzles & Codes",
-          "description": "Solve the train brake code, chess puzzle, clock puzzle, and every other challenge with clear, step-by-step solutions."
+          "title": "Partner Zapping & Inventory",
+          "description": "Master the two-character swap, six-slot inventories, and the floor-drop storage that replaces item boxes in Resident Evil 0."
         },
         {
           "number": "4",
-          "title": "Characters & Story",
-          "description": "Meet Rebecca Chambers and Billy Coen and follow the full story of Resident Evil 0, the prequel to the original outbreak."
+          "title": "Boss & Combat Guide",
+          "description": "Prep for the Leech humanoid, Infected bat, giant spider, Prototype Tyrant, and the two-phase final boss with the right weapons."
         }
       ]
     },
@@ -88,43 +88,43 @@
           "badge": "Updated",
           "title": "Weapons & Items",
           "description": "All weapons, ammo, healing items, and key items with practical usage notes.",
-          "href": "/guide/resident-evil-0-weapons-and-items"
+          "href": "/items/resident-evil-0-weapons"
         },
         {
           "badge": "Popular",
           "title": "Characters",
           "description": "Rebecca Chambers and Billy Coen compared by role, abilities, and playstyle.",
-          "href": "/guide/resident-evil-0-characters"
+          "href": "/characters/resident-evil-0-rebecca"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "Leeches, zombies, hunters, and every creature type with tactics and locations.",
-          "href": "/guide/resident-evil-0-enemies"
+          "title": "Villains & Bosses",
+          "description": "James Marcus, the Queen Leech, and every major threat with tactics and locations.",
+          "href": "/characters/resident-evil-0-antagonist"
         },
         {
           "badge": "Popular",
           "title": "Boss Guide",
           "description": "Every major boss with recommended weapons, positioning, and survival tips.",
-          "href": "/bosses/resident-evil-0-boss-guide"
+          "href": "/guide/resident-evil-0-guide"
         },
         {
           "badge": "Popular",
           "title": "Puzzle Solutions",
           "description": "Train brake code, chess puzzle, clock puzzle, and all other solutions.",
-          "href": "/guide/resident-evil-0-puzzle-guide"
+          "href": "/puzzles/resident-evil-0-puzzle-solutions"
         },
         {
           "badge": "New",
           "title": "Achievements",
           "description": "Every achievement and trophy with concise unlock requirements.",
-          "href": "/guide/resident-evil-0-achievements"
+          "href": "/guide/resident-evil-0-achievement-guide"
         },
         {
           "badge": "New",
           "title": "Wesker Mode",
           "description": "How the HD Remaster's bonus mode changes the campaign with Wesker's abilities.",
-          "href": "/guide/resident-evil-0-wesker-mode"
+          "href": "/modes/resident-evil-0-wesker-mode"
         }
       ]
     },
@@ -173,101 +173,133 @@
         {
           "order": 1,
           "name": "Resident Evil 0 Beginner Guide",
-          "description": "An accessible starting guide covering core mechanics, character switching, item management, combat basics, saving, and survival tips.",
+          "description": "An accessible starting guide covering partner zapping, the no-item-box inventory, herb mixing, combat basics, saving, and survival tips.",
           "href": "/guide/resident-evil-0-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Learn partner zapping and character switching between Rebecca and Billy"
+              "label": "1",
+              "detail": "Swap control between Rebecca and Billy with the partner zapping button"
             },
             {
-              "label": "Step 2",
-              "detail": "Manage the two-character inventory and the item-dropping system"
+              "label": "2",
+              "detail": "Drop items anywhere and remember each stash, because Resident Evil 0 has no item boxes"
             },
             {
-              "label": "Step 3",
-              "detail": "Save ammunition and use the right weapon for each enemy type"
+              "label": "3",
+              "detail": "Let Rebecca mix herbs and handle puzzle items while Billy moves heavy objects"
+            },
+            {
+              "label": "4",
+              "detail": "Conserve handgun ammo and pick fights you can win on the Ecliptic Express"
+            },
+            {
+              "label": "5",
+              "detail": "Save at typewriters with ink ribbons, since the game has no autosaves"
+            },
+            {
+              "label": "6",
+              "detail": "Keep two inventory slots free for puzzle items that appear without warning"
             }
           ]
         },
         {
           "order": 2,
           "name": "Resident Evil 0 Walkthrough",
-          "description": "A complete route through the Ecliptic Express, training facility, and laboratory with key objectives, items, and boss encounters.",
+          "description": "A complete route through the Ecliptic Express, training facility, and underground laboratory with key objectives, items, and boss encounters.",
           "href": "/guide/resident-evil-0-walkthrough",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Train",
-              "detail": "Ecliptic Express, the brake puzzle, and the first boss"
+              "detail": "Ecliptic Express cars, the ring lock, and the brake sequence"
             },
             {
               "label": "Facility",
-              "detail": "Training facility, church, and mansion areas"
+              "detail": "Training facility puzzles, the Infected bat, and the giant spider"
             },
             {
               "label": "Laboratory",
-              "detail": "Treatment plant, lab, and the final boss"
+              "detail": "Underground lab, Prototype Tyrant, and the final boss"
+            },
+            {
+              "label": "Endgame",
+              "detail": "Queen Leech showdown, escape route, and ending"
             }
           ]
         },
         {
           "order": 3,
           "name": "Resident Evil 0 Characters",
-          "description": "Introducing Rebecca Chambers and Billy Coen, their different gameplay roles, and when character switching matters.",
-          "href": "/guide/resident-evil-0-characters",
+          "description": "Introduces Rebecca Chambers and Billy Coen, their different gameplay roles, and when character switching matters most.",
+          "href": "/characters/resident-evil-0-rebecca",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Rebecca Chambers",
-              "detail": "S.T.A.R.S. medic who mixes herbs and handles puzzle items"
+              "label": "Rebecca",
+              "detail": "S.T.A.R.S. medic who mixes herbs and carries puzzle items"
             },
             {
-              "label": "Billy Coen",
-              "detail": "Ex-Marine who is stronger in combat and carries heavy weapons"
+              "label": "Billy",
+              "detail": "Ex-Marine bruiser who moves heavy objects and fires the shotgun"
+            },
+            {
+              "label": "Villains",
+              "detail": "James Marcus, Queen Leech, and the origins of the T-Virus"
             }
           ]
         },
         {
           "order": 4,
           "name": "Resident Evil 0 Weapons and Items",
-          "description": "A practical reference for weapons, ammunition, healing items, key items, and inventory management.",
-          "href": "/guide/resident-evil-0-weapons-and-items",
-          "displayType": "card-list",
+          "description": "A practical reference for weapons, ammunition, healing items, key items, and inventory management without item boxes.",
+          "href": "/items/resident-evil-0-weapons",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Weapons",
-              "detail": "Handgun, shotgun, grenade launcher, and more"
+              "label": "Handgun",
+              "detail": "Common ammo and the baseline weapon for clearing rooms"
             },
             {
-              "label": "Healing",
-              "detail": "Herbs, first aid spray, and mixing combinations"
+              "label": "Shotgun",
+              "detail": "Close-range crowd control, best carried by Billy"
             },
             {
-              "label": "Key Items",
-              "detail": "Hookshot, ink ribbons, and puzzle items"
+              "label": "Magnum",
+              "detail": "Rare boss killer; save it for the Prototype Tyrant"
+            },
+            {
+              "label": "Hookshot",
+              "detail": "Key item and traversal tool; losing it stalls the mid-game"
             }
           ]
         },
         {
           "order": 5,
           "name": "Resident Evil 0 Puzzle Guide",
-          "description": "Every important puzzle solution with required items, switches, combinations, and character interactions.",
-          "href": "/guide/resident-evil-0-puzzle-guide",
-          "displayType": "step-by-step",
+          "description": "Every important puzzle solution with the required items, switches, combinations, and character interactions.",
+          "href": "/puzzles/resident-evil-0-puzzle-solutions",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Train Brake",
-              "detail": "Solve the Ecliptic Express brake code"
+              "label": "Ring Lock",
+              "detail": "Insert the Gold and Silver Rings together on the Ecliptic Express"
             },
             {
-              "label": "Chess Puzzle",
-              "detail": "Arrange the chess pieces in the correct order"
+              "label": "Chess",
+              "detail": "Solve the chessboard riddle in the training facility"
             },
             {
-              "label": "Clock Puzzle",
-              "detail": "Set the laboratory clock to the right time"
+              "label": "Clock",
+              "detail": "Set the laboratory clock using the file clues"
+            },
+            {
+              "label": "Statues",
+              "detail": "Statue and animal crest locks in the training facility"
+            },
+            {
+              "label": "Valves",
+              "detail": "Route the water treatment plant valves and levels"
             }
           ]
         },
@@ -275,20 +307,24 @@
           "order": 6,
           "name": "Resident Evil 0 Boss Guide",
           "description": "Tactics, recommended weapons, positioning, and resource management for every major boss encounter.",
-          "href": "/bosses/resident-evil-0-boss-guide",
-          "displayType": "card-list",
+          "href": "/guide/resident-evil-0-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Train Bosses",
-              "detail": "Giant scorpion and Leech Queen encounters"
+              "label": "S",
+              "detail": "Prototype Tyrant: save magnum and grenade rounds, then punish the charge"
             },
             {
-              "label": "Facility Bosses",
-              "detail": "Giant bat, Centurion, and Proto Tyrant"
+              "label": "A",
+              "detail": "Final boss Queen Leech: two-phase fight, bring maximum healing"
             },
             {
-              "label": "Final Boss",
-              "detail": "Queen Leech and the laboratory showdown"
+              "label": "B",
+              "detail": "Infected bat: dodge the swoops and unload during landing windows"
+            },
+            {
+              "label": "C",
+              "detail": "Leech humanoid: keep your distance, circle, and use handgun or shotgun"
             }
           ]
         },
@@ -296,20 +332,24 @@
           "order": 7,
           "name": "Resident Evil 0 Achievements",
           "description": "Every achievement and trophy with concise requirements to help completionists unlock them all.",
-          "href": "/guide/resident-evil-0-achievements",
+          "href": "/guide/resident-evil-0-achievement-guide",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Story",
-              "detail": "Progress-based achievements for each chapter"
+              "detail": "Complete the campaign on any difficulty"
             },
             {
-              "label": "Challenge",
-              "detail": "Speedruns, no-save, and no-heal runs"
+              "label": "Hard",
+              "detail": "Clear Hard mode for the difficulty trophies"
             },
             {
-              "label": "Wesker Mode",
-              "detail": "Unlock and complete the bonus mode"
+              "label": "Leech",
+              "detail": "Leech Hunter charms, ranks, and bonus rewards"
+            },
+            {
+              "label": "Wesker",
+              "detail": "Finish Wesker Mode and bonus-weapon cleanup"
             }
           ]
         },
@@ -317,20 +357,24 @@
           "order": 8,
           "name": "Resident Evil 0 Wesker Mode",
           "description": "How the HD Remaster's Wesker Mode differs from the standard campaign, including abilities and practical tips.",
-          "href": "/guide/resident-evil-0-wesker-mode",
+          "href": "/modes/resident-evil-0-wesker-mode",
           "displayType": "card-list",
           "highlights": [
             {
               "label": "Unlock",
-              "detail": "Complete the main campaign to unlock Wesker Mode"
+              "detail": "Clear the main story once on any difficulty"
             },
             {
-              "label": "Abilities",
-              "detail": "Wesker's dash, charge, and super strength"
+              "label": "Dash",
+              "detail": "High-speed charge that knocks back enemies in his path"
+            },
+            {
+              "label": "Gaze",
+              "detail": "Charged red-eye blast for leech and Eliminator crowds"
             },
             {
               "label": "Tips",
-              "detail": "Use Wesker's speed to skip tough encounters"
+              "detail": "Use abilities to skip fights and save ammo for bosses"
             }
           ]
         }
@@ -342,23 +386,27 @@
       "items": [
         {
           "question": "What is Resident Evil 0?",
-          "answer": "Resident Evil 0 is a survival horror prequel from Capcom. Set in 1998, it follows Rebecca Chambers and Billy Coen as they investigate the Umbrella Corporation's experiments aboard the Ecliptic Express and beyond."
+          "answer": "Resident Evil 0 is a survival horror prequel from Capcom. Set in July 1998, it follows Rebecca Chambers and Billy Coen as they investigate the Umbrella Corporation's experiments aboard the Ecliptic Express and beyond."
         },
         {
           "question": "Which platforms is Resident Evil 0 on?",
-          "answer": "The HD Remaster is available on PC via Steam, PlayStation, Xbox, and Nintendo Switch."
+          "answer": "Resident Evil 0 HD Remaster is available on PC via Steam, PlayStation 4, Xbox One, and Nintendo Switch."
         },
         {
-          "question": "Who are the playable characters?",
-          "answer": "You alternate between Rebecca Chambers, a S.T.A.R.S. medic, and Billy Coen, an escaped convict. Character switching and partner zapping are central to the game."
+          "question": "Who are the playable characters in Resident Evil 0?",
+          "answer": "You alternate between Rebecca Chambers, a S.T.A.R.S. medic, and Billy Coen, an escaped convict. Partner zapping and character switching are central to Resident Evil 0."
         },
         {
-          "question": "Is there a Wesker Mode?",
-          "answer": "Yes. The HD Remaster includes Wesker Mode, which lets you play through the campaign with Albert Wesker's special abilities."
+          "question": "Does Resident Evil 0 have item boxes?",
+          "answer": "No. Resident Evil 0 removes item boxes entirely, so anything you drop stays in that room for the rest of the campaign and must be picked up by hand."
         },
         {
-          "question": "Do I need to play other Resident Evil games first?",
-          "answer": "No. Resident Evil 0 is a prequel, so it is a fine starting point, though returning fans will recognize many characters and locations."
+          "question": "Is there a Wesker Mode in Resident Evil 0?",
+          "answer": "Yes. The Resident Evil 0 HD Remaster includes Wesker Mode, which lets you replay the campaign with Albert Wesker's dash and Gaze of Destruction abilities."
+        },
+        {
+          "question": "Do I need to play other Resident Evil games before Resident Evil 0?",
+          "answer": "No. Resident Evil 0 is a prequel set before the first game, so it is a fine starting point, though returning fans will recognize many characters and locations."
         }
       ]
     },
